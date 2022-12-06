@@ -1,0 +1,30 @@
+body{
+	background-color: #FFFEF2;
+}
+.para1{
+	font-family: Georgia, serif;
+	font-size: 20px;
+}
+.para2{
+	 font-family: cursive;
+	 font-size: 15px;
+}
+table{
+	background-color: #DFCAA0;
+	border-width: 5px;
+	border-color: #987554;
+	border-style: dotted;
+	margin-right: auto;
+	margin-left: auto;
+}
+h4{
+	font-family: 'Brush Script MT', cursive;
+	background-color: #F6E3BA;
+}
+h1{
+	font-family: 'Courier New', monospace;
+}
+.Image{
+	border-radius: 35px;
+	padding: 10px;
+}
